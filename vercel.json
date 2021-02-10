@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/handbook", "destination": "https://we.vacuumlabs.com" }
+  ]
+}
